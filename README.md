@@ -34,8 +34,6 @@ Built as a web application (not mobile).
 ## Technologies & Patterns
 - Singleton Pattern (database utils)
 - Strategy Pattern (payment service)
-- Likely Java/Spring or similar backend (based on patterns used)
+- Likely Java/Spring backend
 
 This repo serves as the central SDLC documentation archive for the project submissions.
-
-For the actual implementation code, check related repositories if available.
